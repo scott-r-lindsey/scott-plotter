@@ -1,0 +1,6 @@
+[submodule "marlin"]
+	path = marlin
+	url = https://github.com/MarlinFirmware/Marlin.git
+[submodule "gcodeplot"]
+	path = gcodeplot
+	url = https://github.com/arpruss/gcodeplot.git
